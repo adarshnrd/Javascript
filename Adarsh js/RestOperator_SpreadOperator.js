@@ -69,7 +69,7 @@ let arr1 =[1,2,3,4,5,6,8]
 let arr2=[9,10,11,12,13,14,15]
 let arr3=[...arr1,...arr2]
 
-console.log(arr3)
+//console.log(arr3)
 
 // we can concate 2 object using spread operator
 let obj ={name:"Adarsh"
