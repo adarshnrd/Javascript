@@ -29,5 +29,4 @@ class Ada{
         console.log("Hey Adarsh");
     }
 }
-
 let ad=new Ada();
