@@ -9,19 +9,7 @@
 // });
 // console.log(prom);
 
-// let complete =true;
-// let prom=new Promise(function(resolve,reject){
-//     if(complete){
-//         resolve("successfull");
-//     }
-//     else{
-//         reject("failed");
-//     }
-// });
-// console.log(prom)
-
 // let complete =false;
-
 // let prom =new Promise(function(resolve,reject){
 //     if(complete){
 //         resolve("success")
@@ -32,6 +20,7 @@
 // })
 // console.log(prom)
 /*
+
 // let complete = false;
 function prom(complete) {
   return new Promise(function (solved, reject) {
@@ -224,4 +213,3 @@ a2.catch((val)=>{
 a3.then((val)=>{
     console.log(val)
 })
-
