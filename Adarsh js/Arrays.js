@@ -131,5 +131,4 @@ let square=arr2.map((x)=>{
     return x*x;
 })
 console.log(square)
-
-
+//https://github.com/rishitamandal?tab=overview&from=2022-12-01&to=2022-12-31
